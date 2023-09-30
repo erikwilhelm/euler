@@ -18,4 +18,4 @@ while fib[-1]<4e6:
     fib[-1]=nextVal
 
 
-print('The solution to problem 1 is %d' % solution)
+print('The solution to problem 2 is %d' % solution)
